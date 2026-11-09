@@ -1,6 +1,6 @@
 {
   "name": "com.tripledot.materialpropertymodifier",
-  "version": "0.1.0-preview",
+  "version": "0.1.1-preview",
   "displayName": "Material Property Modifier",
   "description": "Drive shader properties on uGUI Graphics per instance, without creating material assets. Values are animatable and editable from a custom inspector with a shader property picker.",
   "unity": "6000.0",

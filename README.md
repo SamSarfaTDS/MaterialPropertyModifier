@@ -7,13 +7,13 @@ Drive shader properties on uGUI `Graphic`s (Image, RawImage, Text…) per instan
 Package Manager → **+** → **Add package from git URL…**
 
 ```
-https://github.com/SamSarfaTDS/MaterialPropertyModifier.git#v0.1.0-preview
+https://github.com/SamSarfaTDS/MaterialPropertyModifier.git#v0.1.1-preview
 ```
 
 Or add it to `Packages/manifest.json`:
 
 ```json
-"com.tripledot.materialpropertymodifier": "https://github.com/SamSarfaTDS/MaterialPropertyModifier.git#v0.1.0-preview"
+"com.tripledot.materialpropertymodifier": "https://github.com/SamSarfaTDS/MaterialPropertyModifier.git#v0.1.1-preview"
 ```
 
 ## Usage
