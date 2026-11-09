@@ -1,0 +1,5 @@
+.DS_Store
+Thumbs.db
+
+# Global gitignores often exclude *~ (editor backups); keep Unity's hidden samples folder.
+!Samples~/

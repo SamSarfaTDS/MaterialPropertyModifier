@@ -1,0 +1,31 @@
+{
+  "name": "com.tripledot.materialpropertymodifier",
+  "version": "0.1.0-preview",
+  "displayName": "Material Property Modifier",
+  "description": "Drive shader properties on uGUI Graphics per instance, without creating material assets. Values are animatable and editable from a custom inspector with a shader property picker.",
+  "unity": "6000.0",
+  "dependencies": {
+    "com.unity.ugui": "2.0.0"
+  },
+  "keywords": [
+    "ui",
+    "ugui",
+    "material",
+    "shader",
+    "properties"
+  ],
+  "author": {
+    "name": "Tripledot Studios"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SamSarfaTDS/MaterialPropertyModifier.git"
+  },
+  "samples": [
+    {
+      "displayName": "Examples",
+      "description": "Sample scene with an animated UI circle shader driven by GraphicMaterialPropertyModifier.",
+      "path": "Samples~/MaterialPropertyModifierSamples"
+    }
+  ]
+}

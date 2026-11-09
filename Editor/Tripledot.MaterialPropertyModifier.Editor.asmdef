@@ -1,0 +1,19 @@
+{
+    "name": "Tripledot.MaterialPropertyModifier.Editor",
+    "rootNamespace": "Tripledot.MaterialPropertyModifier.Editor",
+    "references": [
+        "Tripledot.MaterialPropertyModifier",
+        "UnityEngine.UI"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
