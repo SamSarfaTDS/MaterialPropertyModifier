@@ -23,6 +23,10 @@ Or add it to `Packages/manifest.json`:
 3. Add bindings: use the **▾** picker to choose a property from the shader, or type the property name yourself.
 4. Animate the shader via the bindings. No more need to manage material instances.
 
+### Warning
+
+The property modifier creates short lived instance of the material. This should be used exclusively for animations. Saving a scene or prefab discards the instanced material, reverting the values on screen to the ones in the original material.
+
 ## Example
 
 Add the component to your game object
