@@ -49,6 +49,9 @@ https://github.com/user-attachments/assets/b8e72896-0187-4af3-9279-6c5785ca73b6
 
 Import **Examples** from the package's **Samples** tab in Package Manager. It contains a scene with a UI circle shader animated through the modifier.
 
+<img width="865" height="343" alt="image" src="https://github.com/user-attachments/assets/213080f2-badb-4c36-8044-063210fc26c4" />
+
+
 ## Requirements
 
 - Unity 6000.0+
