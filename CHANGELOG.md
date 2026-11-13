@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.1.1]
+
+- First stable release. Same code as 0.1.1-preview, without the pre-release label.
+
 ## [0.1.1-preview]
 
 - Added the samples folder `.meta` file, so imported samples get the same folder GUID in every project.
